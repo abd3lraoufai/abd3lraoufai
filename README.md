@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdelraouf Sabri
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abd3lraouf/abd3lraouf/main/assets/banner.svg" alt="Banner" width="100%" height="auto" />
+  <img src="https://raw.githubusercontent.com/abd3lraoufai/abd3lraoufai/main/assets/banner.svg" alt="Banner" width="100%" height="auto" />
 </div>
 
 <p align="center">
@@ -35,7 +35,7 @@ I'm passionate about building efficient, maintainable, and user-friendly mobile 
 
 ## 🚀 Professional Journey
 
-At **[Storyteller](https://www.getstoryteller.com/)** (Apr 2022 - Present), I've grown as a **Senior Android Developer** working on SDK development and integration for major clients. My role encompasses *architecture design*, *Jetpack Compose implementation*, and *team leadership*. I've been instrumental in modernizing the codebase, integrating advertising solutions, and building a React Native wrapper for our SDK.
+At **[Storyteller](https://www.getstoryteller.com/)** (Apr 2022 - Feb 2025), I've grown as a **Senior Android Developer** working on SDK development and integration for major clients. My role encompasses *architecture design*, *Jetpack Compose implementation*, and *team leadership*. I've been instrumental in modernizing the codebase, integrating advertising solutions, and building a React Native wrapper for our SDK.
 
 During my time at **[Vodafone Egypt](http://vf.eg/anavodafone)** (May 2021 - Mar 2022), I focused on *application architecture* and implementing *TDD & BDD methodologies*. My work involved security analysis, building robust *CI/CD pipelines*, and ensuring comprehensive test coverage for critical app features used by millions of users.
 
